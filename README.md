@@ -1,18 +1,18 @@
 # icewmthemes
 vari temi per IceWm
 
-# IceTunes
+## IceTunes
 Tema IceTunes personalizzato, look da Mac
 
-## IceTunesLight
+### IceTunesLight
 Tema più chiaro delle quattro varianti
 
-## IceTunesCrystal
+### IceTunesCrystal
 Tema che si accompagna al tema gtk MurrineCrystal
 
-## IceTunesDark
+### IceTunesDark
 Tema che si accompagna al tema gtk GreyBird
 
-## IceTunesDarker
+### IceTunesDarker
 Tema ancora più scuro
 
