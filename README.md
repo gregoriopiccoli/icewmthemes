@@ -20,7 +20,7 @@ Tema ancora più scuro
 ## JustIce
 Tema JustIce, minimo con titolo molto piccolo
 
-![JustIce](/justice.png)
+![JustIce](/justicemd.png)
 ### JustIceBlack
 Tema con titoli neri
 
