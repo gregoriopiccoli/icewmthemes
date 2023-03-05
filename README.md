@@ -4,6 +4,7 @@ vari temi per IceWm
 ## IceTunes
 Tema IceTunes personalizzato, look da Mac
 
+![IceTunes](/icetunescrystal.jpeg)
 ### IceTunesLight
 Tema più chiaro delle quattro varianti
 
